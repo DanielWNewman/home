@@ -1,8 +1,8 @@
-postTitle{
+.postTitle{
   font-size: 24px;
   margin: auto;
 }
-post{
+.post{
   border: 7px solid black;
   width: 200px;
   margin: auto;
