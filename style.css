@@ -1,6 +1,11 @@
 
+.navBar{
+  height:40px;
+  background-color:#12A0DD;
+}
 .post{
   margin: auto;
+  margin-top: 20px;
   width: 480px;
   border: 7px solid black;
 }
