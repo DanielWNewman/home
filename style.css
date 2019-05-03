@@ -2,5 +2,8 @@ postTitle{
   font-size: 24px;
 }
 post{
-  border: solid 7px black;
+  border: 7px solid black;
+  width: 200px;
+  margin: auto;
 }
+
