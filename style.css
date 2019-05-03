@@ -1,6 +1,8 @@
 
 .post{
   margin: auto;
+  width: 480px;
+  border: 7px solid black;
 }
 .postTitle{
   font-size: 24px;
@@ -8,8 +10,6 @@
   text-align: center;
 }
 .postBlock{
-  border: 7px solid black;
-  width: 480px;
   margin: auto;
   padding:15px;
 }
