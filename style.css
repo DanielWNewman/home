@@ -1,7 +1,10 @@
 
 .navBar{
-  height:40px;
-  background-color:#12D0DD;
+  height:80px;
+  background-color:#3ec3dd;
+  color:rgb(248, 239, 213);
+  font-size: 60px;
+  padding: 10px;
 }
 .post{
   margin: auto;
