@@ -9673,8 +9673,10 @@ h3 {
 }
 
 #post {
+  padding: 8px;
   border: 2px solid #007bff;
   background-color: #cceeff;
+  margin-bottom: 15px;
 }
 
 nav {
