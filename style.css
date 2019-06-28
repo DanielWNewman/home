@@ -9655,6 +9655,10 @@ h3 {
     border-color: #dee2e6;
   }
 }
+#body {
+  background-image: url("/Users/danielnewman/Documents/Creative/Websites/Blog/home/pictures/ccgrafbg.jpg");
+}
+
 .blog-header-logo {
   font-family: "Playfair Display", Georgia, "Times New Roman", serif;
   font-size: 2.25rem;
@@ -9676,6 +9680,7 @@ h3 {
   border: 2px solid #007bff;
   background-color: #cceeff;
   margin-bottom: 15px;
+  margin-top: 15px;
 }
 
 #thought {
