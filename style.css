@@ -9656,7 +9656,7 @@ h3 {
   }
 }
 #body {
-  background-image: url("/Users/danielnewman/Documents/Creative/Websites/Blog/home/pictures/ccgrafbg.jpg");
+  background-image: url("https://raw.githubusercontent.com/DanielWNewman/home/master/ccgrafbg.jpg");
 }
 
 .blog-header-logo {
