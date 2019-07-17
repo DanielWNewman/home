@@ -3,9 +3,16 @@
 
 @import "bootstrap-4.3.1/scss/bootstrap";
 
-$trueBlue: #007bff;
-$backgroundBlue: #cceeff;
 
+
+$trueBlue: #007bff;
+$thinkGreen:#00ff7b;
+$backgroundBlue: #cceeff;
+$backgroundGreen: #ccffee;
+
+#body {
+  background-image: url("https://raw.githubusercontent.com/DanielWNewman/home/master/ccgrafbg.jpg");
+}
 .blog-header-logo{
   font-family: "Playfair Display", Georgia, "Times New Roman", serif;
   font-size: 2.25rem;
@@ -23,10 +30,25 @@ $backgroundBlue: #cceeff;
 }
 
 #post{
-
   border: 2px solid $trueBlue;
   background-color: $backgroundBlue;
+  margin-bottom: 15px;
+  margin-top: 15px;
 }
+#thought{
+  border: 2px solid $thinkGreen;
+  background-color: $backgroundGreen;
+  margin-bottom: 15px;
+}
+
+.blog-footer{
+padding: 2.5rem 0;
+color: #999;
+text-align: center;
+background-color: #f9f9f9;
+border-top: .05rem solid #e5e5e5;
+}
+
 nav {
 display: -ms-flexbox;
 display: flex;
