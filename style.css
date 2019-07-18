@@ -9687,6 +9687,14 @@ h3 {
   border: 2px solid #00ff7b;
   background-color: #ccffee;
   margin-bottom: 15px;
+  margin-top: 15px;
+}
+
+#link {
+  border: 2px solid #Ff7b7b;
+  background-color: #ffeeee;
+  margin-bottom: 15px;
+  margin-top: 15px;
 }
 
 .blog-footer {
