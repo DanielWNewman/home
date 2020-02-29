@@ -61,7 +61,7 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: #fff;
+  background-color: #333;
 }
 
 [tabindex="-1"]:focus {
@@ -1728,7 +1728,6 @@ pre code {
 }
 
 .table .thead-dark th {
-  color: #fff;
   background-color: #343a40;
   border-color: #454d55;
 }
@@ -9654,9 +9653,6 @@ h3 {
     color: inherit;
     border-color: #dee2e6;
   }
-}
-body {
-background-color:#EEE;
 }
 
 .blog-header-logo {
