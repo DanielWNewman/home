@@ -9705,11 +9705,15 @@ h3 {
 }
 
 .blog-footer {
-  padding: 2.5rem 0;
-  color: #999;
-  text-align: center;
-  background-color: #f9f9f9;
-  border-top: 0.05rem solid #e5e5e5;
+    padding: 2.5rem 0;
+    color: #999;
+    text-align: center;
+    background-color: #f9f9f9;
+    bottom: 0px;
+    border-top: 0.05rem solid #e5e5e5;
+    width: -webkit-fill-available;
+    position: absolute;
+    
 }
 
 nav {
